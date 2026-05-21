@@ -49,13 +49,13 @@ Website ผลงาน : https://GoodNightMare.github.io
 
 ---
 
-## 🧠 Professional Core Skills
+## 🧠 Professional Core Skills (ทักษะการทำงานและความเป็นมืออาชีพ)
 
-- 👥 **Collaborative Development (Teamwork):** Experienced in working within development teams, designing architecture diagrams, and aligning cross-functional ideas.
-- ⏱️ **Agile Execution (Time Management):** Proven ability to manage academic courses, build personal applications, and deliver production-ready code in fast-paced environments.
-- 🧩 **Analytical Troubleshooting (Problem Solving):** Skilled in designing custom algorithmic logic and adapting advanced technologies to solve complex problems.
-- 📢 **Technical Communication:** Capable of pitching ideas on stage, creating clean technical descriptions, and explaining complex concepts clearly.
-- 🚀 **Initiative Driving (Leadership):** Strong sense of ownership in taking the lead on architecture designs and exploring cutting-edge tech stacks.
+- 👥 **การทำงานร่วมกันในทีมซอฟต์แวร์ (Teamwork):** มีประสบการณ์ทำงานร่วมกับทีมพัฒนา ออกแบบไดอะแกรมสถาปัตยกรรมระบบ (Architecture Diagrams) และระดมความคิดเพื่อขับเคลื่อนโปรเจกต์ร่วมกัน
+- ⏱️ **การบริหารเวลาและการจัดลำดับความสำคัญ (Time Management):** สามารถจัดสรรเวลาระหว่างการเรียน การพัฒนาโปรเจกต์ส่วนตัว และการเข้าร่วมแข่งขัน Hackathon ภายใต้เงื่อนไขเวลาที่จำกัดได้อย่างมีประสิทธิภาพ
+- 🧩 **การคิดวิเคราะห์และแก้ปัญหาทางเทคนิค (Problem Solving):** เชี่ยวชาญในการออกแบบลอจิกและอัลกอริทึมขึ้นเอง (Custom Logic) รวมถึงการประยุกต์ใช้เทคโนโลยีขั้นสูงมาแก้โจทย์ที่ซับซ้อน
+- 📢 **การสื่อสารและการนำเสนอเทคโนโลยี (Communication):** มีทักษะในการนำเสนอแผนงานบนเวที (Pitching) สามารถอธิบายโครงสร้างระบบที่ซับซ้อนให้เข้าใจง่าย และสื่อสารเชื่อมโยงระหว่างมุมมองเทคนิคและมุมมองธุรกิจได้ดี
+- 🚀 **ความกระตือรือร้นและการเป็นผู้นำเชิงรุก (Leadership):** มีความเป็นเจ้าของงาน (Ownership) สูง กล้าคิดริเริ่มวางโครงสร้างระบบ และพร้อมเปิดรับในการศึกษาทดลอง Tech Stack ใหม่ ๆ อยู่เสมอ
 
 ---
 
@@ -67,7 +67,7 @@ Website ผลงาน : https://GoodNightMare.github.io
 
 ---
 
-## 🏆 Hackathons & Achievements
+## 🏆 Hackathons & Achievements (รางวัล)
 *   **AI-Preneur Hackathon 2026 (ภาคกลาง)** 
 *   **Gosoft Retail Tech Hackathon 2026**
 *   **Samsung x KBTG Digital Cybersecurity Hackathon 2026** 
