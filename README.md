@@ -23,11 +23,11 @@
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🤖 AI, Data & Automation
-![NLP](https://img.shields.io/badge/NLP-Neural_Networks-34D399?style=for-the-badge&logo=ai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-10B981?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector__DB-FF7043?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/YOLO-Computer__Vision-00FFFF?style=for-the-badge)
-![ZoeDepth](https://img.shields.io/badge/ZoeDepth-3D__Reconstruction-6366F1?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-34D399?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-10B981?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF7043?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
+![ZoeDepth](https://img.shields.io/badge/ZoeDepth-6366F1?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### 🗄️ Databases & Cloud DevOps
