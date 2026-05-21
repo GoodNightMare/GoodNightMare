@@ -39,9 +39,10 @@
 ---
 
 ## 🏆 Hackathons & Achievements
-* 🏅 **Finalist** @ Gosoft Retail Tech Hackathon 2026
-* 💻 **Participant** @ Samsung x KBTG Digital Cybersecurity Hackathon 2026
-* 🚀 **Semi-Finalist** @ National Software Contest (NSC) 2024
+*   **AI-Preneur Hackathon 2025 (ภาคกลาง)** 
+*   **Gosoft Retail Tech Hackathon 2026**
+*   **Samsung x KBTG Digital Cybersecurity Hackathon 2026** 
+*   **National Software Contest (NSC) 2024** 
 
 ---
 
