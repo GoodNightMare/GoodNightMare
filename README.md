@@ -62,11 +62,30 @@ Website ผลงาน : https://GoodNightMare.github.io
 ## 🚀 Featured Projects (โปรเจกต์เด่น)
 
 * **🪑 BuddyBuilder.ai** - แอปพลิเคชันจัดวางเลย์เอาต์ห้องแบบ 3 มิติ ขับเคลื่อนด้วย AI Vision ในการตรวจจับเฟอร์นิเจอร์ ร่วมกับการทำระบบสืบค้นข้อมูลด้วย RAG
-* **🌳 HikeCycle** - แพลตฟอร์มเว็บแอปพลิเคชันแบบครบวงจร (E-Commerce & Rental Platform) สำหรับบริการเช่าอุปกรณ์เดินป่าและปั่นจักรยาน พัฒนาขึ้นด้วยสถาปัตยกรรม **ASP.NET Core 9.0 MVC** ร่วมกับฐานข้อมูล **MySQL** (ผ่าน Entity Framework Core) 📂 [[ดูเอกสารโปรเจกต์ (Doc)](https://drive.google.com/drive/folders/15tKYEr3p0VsHtzSkJITXNknQSLTBU-_X?usp=sharing)]
-* **👨‍🎓 CSI Showcase** - แพลตฟอร์มเว็บแอปพลิเคชันคลังผลงานดิจิทัล (Digital Portfolio Platform) สำหรับให้นักศึกษาบันทึก จัดการ และจัดแสดงผลงานหรือโปรเจกต์ของตนเอง 
+  * 🛠️ **Tech Stack:** `Next.js` `Postgresql` `Python` `ChromaDB` `YOLO` `ZoeDepth` `RAG Architecture`
+  * 💻 **Repository:** [💻 App](https://github.com/buddybuilder-ai/app) [💻 Core](https://github.com/buddybuilder-ai/core)
+    
+* **🌳 HikeCycle** - แพลตฟอร์มเว็บแอปพลิเคชันแบบครบวงจร (E-Commerce & Rental Platform) สำหรับบริการเช่าอุปกรณ์เดินป่าและปั่นจักรยาน พัฒนาขึ้นด้วยสถาปัตยกรรม **ASP.NET Core 9.0 MVC** ร่วมกับฐานข้อมูล **MySQL** (ผ่าน Entity Framework Core)
+  * 🛠️ **Tech Stack:** `` `` `` `` `` ``
+  * 💻 **Repository:** [💻 App](https://github.com/GoodNightMare/Hike-Cycle)
+  * 📂 **Doc:** [เอกสาร 📂](https://drive.google.com/drive/folders/15tKYEr3p0VsHtzSkJITXNknQSLTBU-_X?usp=sharing)
+    
+* **👨‍🎓 CSI Showcase** - แพลตฟอร์มเว็บแอปพลิเคชันคลังผลงานดิจิทัล (Digital Portfolio Platform) สำหรับให้นักศึกษาบันทึก จัดการ และจัดแสดงผลงานหรือโปรเจกต์ของตนเอง
+  * 🛠️ **Tech Stack:** `` `` `` `` `` ``
+  * 💻 **Repository:** [💻 App](https://github.com/Sayhighz/CSI-SHOWCASE-V3)
+    
 * **🔐 Zero ID** - ระบบยืนยันตัวตนตามช่วงอายุบน Android โดยใช้ Zero-Knowledge Proofs (Groth16/snarkjs) เพื่อรักษาความเป็นส่วนตัวสูงสุดของผู้ใช้งาน
+  * 🛠️ **Tech Stack:** `` `` `` `` `` ``
+  * 💻 **Repository:** [💻 App](https://github.com/Sayhighz/zero-id)
+    
 * **📖 CourseFlow** - แอปพลิเคชันสำหรับลงทะเบียนเรียนตาม Pattern ที่กำหนดไว้ โดยแต่ละวิชาแต่ละSection จะมีจำนวนคนที่ต่างกัน และเพิ่ม Pattern จาก Excel ได้ 📂 [[ดูเอกสารโปรเจกต์ (Doc)](https://drive.google.com/drive/folders/1JVKJQKZHut5-UyFWoBHxViGuTC5pp2bg?usp=drive_link)]
+  * 🛠️ **Tech Stack:** `` `` `` `` `` ``
+  * 💻 **Repository:** [💻 App](https://github.com/Dawinzhii/courseflow)
+  * 📂 **Doc:** [เอกสาร 📂](https://drive.google.com/drive/folders/1JVKJQKZHut5-UyFWoBHxViGuTC5pp2bg?usp=drive_link)
+    
 * **🛻 Slide Me** - แอปพลิเคชันแพลตฟอร์มเรียกบริการรถสไลด์ขนย้ายรถยนต์ พัฒนาแบบ Full-Stack ด้วย React Native (Expo)
+  * 🛠️ **Tech Stack:** `` `` `` `` `` ``
+  * 💻 **Repository:** [💻 App](https://github.com/Sayhighz/SlideMe) 
 
 ---
 
