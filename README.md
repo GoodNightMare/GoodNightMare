@@ -34,7 +34,7 @@
 
 * **🪑 BuddyBuilder.ai** - แอปพลิเคชันจัดวางเลย์เอาต์ห้องแบบ 3 มิติ ขับเคลื่อนด้วย AI Vision ในการตรวจจับเฟอร์นิเจอร์ ร่วมกับการทำระบบสืบค้นข้อมูลด้วย RAG
 * **🔐 Zero ID** - ระบบยืนยันตัวตนตามช่วงอายุบน Android โดยใช้ Zero-Knowledge Proofs (Groth16/snarkjs) เพื่อรักษาความเป็นส่วนตัวสูงสุดของผู้ใช้งาน
-* **📊 Expense Tracker** - เว็บแอปพลิเคชันสำหรับบันทึกและติดตามรายรับ-รายจ่าย พัฒนาด้วย React, Node.js และจัดการฐานข้อมูลผ่าน MongoDB & Google Sheets API
+* **📊 Expense Tracker** - เว็บแอปพลิเคชันสำหรับบันทึกและติดตามรายรับ-รายจ่าย พัฒนาด้วย React, Node.js และจัดการฐานข้อมูลผ่าน Google Sheets API
 
 ---
 
@@ -46,6 +46,5 @@
 ---
 
 ## 📫 Connect with me
-* 💼 **LinkedIn:** [ลิงก์โปรไฟล์ของคุณ]
-* 📧 **Email:** [อีเมลของคุณ]
+* 📧 **Email:** nonthee.night@gmail.com
 * 🌐 **Website:** https://GoodNightMare.github.io
