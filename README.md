@@ -2,6 +2,8 @@
 
 นักศึกษาคณะเทคโนโลยีสารสนเทศ สาขาวิทยาการคอมพิวเตอร์และนวัตกรรมการพัฒนาซอฟต์แวร์ (Full Stack) มหาวิทยาลัยศรีปทุม
 
+Website ผลงาน : https://GoodNightMare.github.io
+
 ---
 
 ## 🛠️ My Tech Stack & Tools
@@ -59,5 +61,6 @@
 ---
 
 ## 📫 Connect with me
-* 📧 **Email:** nonthee.night@gmail.com
-* 🌐 **Website:** https://GoodNightMare.github.io
+* 📧 **Email:** [nonthee.night@gmail.com](mailto:nonthee.night@gmail.com)
+* 📸 **Instagram:** [@nnight_yy](https://www.instagram.com/nnight_yy?igsh=eGZ2bG51dDEzbWht&utm_source=qr)
+* 👥 **Facebook:** [นนท์ธีร์ ปานะถึก](https://www.facebook.com/share/18hZKPXUhv/?mibextid=wwXIfr)
