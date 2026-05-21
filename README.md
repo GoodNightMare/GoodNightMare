@@ -49,6 +49,16 @@ Website ผลงาน : https://GoodNightMare.github.io
 
 ---
 
+## 🧠 Professional Core Skills
+
+- 👥 **Collaborative Development (Teamwork):** Experienced in working within development teams, designing architecture diagrams, and aligning cross-functional ideas.
+- ⏱️ **Agile Execution (Time Management):** Proven ability to manage academic courses, build personal applications, and deliver production-ready code in fast-paced environments.
+- 🧩 **Analytical Troubleshooting (Problem Solving):** Skilled in designing custom algorithmic logic and adapting advanced technologies to solve complex problems.
+- 📢 **Technical Communication:** Capable of pitching ideas on stage, creating clean technical descriptions, and explaining complex concepts clearly.
+- 🚀 **Initiative Driving (Leadership):** Strong sense of ownership in taking the lead on architecture designs and exploring cutting-edge tech stacks.
+
+---
+
 ## 🚀 Featured Projects (โปรเจกต์เด่น)
 
 * **🪑 BuddyBuilder.ai** - แอปพลิเคชันจัดวางเลย์เอาต์ห้องแบบ 3 มิติ ขับเคลื่อนด้วย AI Vision ในการตรวจจับเฟอร์นิเจอร์ ร่วมกับการทำระบบสืบค้นข้อมูลด้วย RAG
