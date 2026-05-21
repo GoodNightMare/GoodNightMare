@@ -39,7 +39,7 @@
 ---
 
 ## 🏆 Hackathons & Achievements
-*   **AI-Preneur Hackathon 2025 (ภาคกลาง)** 
+*   **AI-Preneur Hackathon 2026 (ภาคกลาง)** 
 *   **Gosoft Retail Tech Hackathon 2026**
 *   **Samsung x KBTG Digital Cybersecurity Hackathon 2026** 
 *   **National Software Contest (NSC) 2024** 
