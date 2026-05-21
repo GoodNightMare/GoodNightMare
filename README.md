@@ -61,6 +61,6 @@ Website ผลงาน : https://GoodNightMare.github.io
 ---
 
 ## 📫 Connect with me
-**Email:** [nonthee.night@gmail.com](mailto:nonthee.night@gmail.com)
-**Instagram:** [@nnight_yy](https://www.instagram.com/nnight_yy?igsh=eGZ2bG51dDEzbWht&utm_source=qr)
-**Facebook:** [นนท์ธีร์ ปานะถึก](https://www.facebook.com/share/18hZKPXUhv/?mibextid=wwXIfr)
+* **Email:** [nonthee.night@gmail.com](mailto:nonthee.night@gmail.com)
+* **Instagram:** [@nnight_yy](https://www.instagram.com/nnight_yy?igsh=eGZ2bG51dDEzbWht&utm_source=qr)
+* **Facebook:** [นนท์ธีร์ ปานะถึก](https://www.facebook.com/share/18hZKPXUhv/?mibextid=wwXIfr)
