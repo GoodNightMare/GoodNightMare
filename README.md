@@ -62,8 +62,10 @@ Website ผลงาน : https://GoodNightMare.github.io
 ## 🚀 Featured Projects (โปรเจกต์เด่น)
 
 * **🪑 BuddyBuilder.ai** - แอปพลิเคชันจัดวางเลย์เอาต์ห้องแบบ 3 มิติ ขับเคลื่อนด้วย AI Vision ในการตรวจจับเฟอร์นิเจอร์ ร่วมกับการทำระบบสืบค้นข้อมูลด้วย RAG
+* **🌳 HikeCycle** - แพลตฟอร์มเว็บแอปพลิเคชันแบบครบวงจร (E-Commerce & Rental Platform) สำหรับบริการเช่าอุปกรณ์เดินป่าและปั่นจักรยาน พัฒนาขึ้นด้วยสถาปัตยกรรม **ASP.NET Core 9.0 MVC** ร่วมกับฐานข้อมูล **MySQL** (ผ่าน Entity Framework Core) 📂 [[ดูเอกสารโปรเจกต์ (Doc)](https://drive.google.com/drive/folders/15tKYEr3p0VsHtzSkJITXNknQSLTBU-_X?usp=sharing)]
 * **🔐 Zero ID** - ระบบยืนยันตัวตนตามช่วงอายุบน Android โดยใช้ Zero-Knowledge Proofs (Groth16/snarkjs) เพื่อรักษาความเป็นส่วนตัวสูงสุดของผู้ใช้งาน
-* **🛻 Slide Me** - แอปพลิเคชันแพลตฟอร์มเรียกบริการรถสไลด์ขนย้ายรถยนต์ พัฒนาแบบ Full-Stack ด้วย React Native (Expo) 
+* **📖 CourseFlow** - แอปพลิเคชันสำหรับลงทะเบียนเรียนตาม Pattern ที่กำหนดไว้ โดยแต่ละวิชาแต่ละSection จะมีจำนวนคนที่ต่างกัน และเพิ่ม Pattern จาก Excel ได้ 📂 [[ดูเอกสารโปรเจกต์ (Doc)](https://drive.google.com/drive/folders/1JVKJQKZHut5-UyFWoBHxViGuTC5pp2bg?usp=drive_link)]
+* **🛻 Slide Me** - แอปพลิเคชันแพลตฟอร์มเรียกบริการรถสไลด์ขนย้ายรถยนต์ พัฒนาแบบ Full-Stack ด้วย React Native (Expo)
 
 ---
 
