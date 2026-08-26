@@ -217,15 +217,6 @@ Full-stack mobile application for requesting tow-truck and vehicle transportatio
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GoodNightMare&show_icons=true&theme=github_dark&hide_border=true" alt="Nonthee's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodNightMare&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 I'm currently open to **Cooperative Education and Internship opportunities** in Software Development, Full-Stack Development and AI / Computer Vision.
